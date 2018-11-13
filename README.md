@@ -5,6 +5,8 @@ For details about R-CNN please refer to the paper [Faster R-CNN: Towards Real-Ti
 
 
 ### Requirements: software
+**环境：Python2.7  tensorflow1.3.0**
+经测试，其他版本有些问题，需要改进。
 
 1. Requirements for Tensorflow (see: [Tensorflow](https://www.tensorflow.org/))
 
